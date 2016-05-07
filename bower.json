@@ -1,0 +1,24 @@
+{
+  "name": "angular-googlemap-location-picker",
+  "version": "0.1.1",
+  "homepage": "https://github.com/satisfind/angular-googlemap-location-picker",
+  "authors": [
+    "Subash Selvaraj"
+  ],
+  "description": "",
+  "main": "src/angular-googlemap-location-picker.js",
+  "keywords": [
+    "jquery-plugin",
+    "googlemap",
+    "gmapapi",
+    "location",
+    "input",
+    "radius",
+    "map"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "bower_components",
+    "demo"
+  ]
+}
